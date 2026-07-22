@@ -2,7 +2,7 @@
 
 Turn source code into clean, shareable images. Paste code, pick a language and theme, tune the frame, export as PNG, SVG, or PDF — or copy straight to your clipboard.
 
-**[Live demo →]([https://uuluou.github.io/CodeShot/])**
+**[Live demo →](https://uuluou.github.io/CodeShot/)**
 
 ---
 
