@@ -1,3 +1,9 @@
+## Screenshots
+
+![CodeShot Screenshot 1](1.png)
+
+![CodeShot Screenshot 2](2.png)
+
 # CodeShot
 
 Turn source code into clean, shareable images. Paste code, pick a language and theme, tune the frame, export as PNG, SVG, or PDF — or copy straight to your clipboard.
