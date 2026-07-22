@@ -1,8 +1,8 @@
 ## Screenshots
 
-![CodeShot Screenshot 1](1.png)
+![CodeShot Screenshot 1](screenshots/1.png)
 
-![CodeShot Screenshot 2](2.png)
+![CodeShot Screenshot 2](screenshots/2.png)
 
 # CodeShot
 
