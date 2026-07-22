@@ -2,7 +2,7 @@
 
 Turn source code into clean, shareable images. Paste code, pick a language and theme, tune the frame, export as PNG, SVG, or PDF — or copy straight to your clipboard.
 
-**[Live demo →](#)** <!-- replace with your GitHub Pages URL once deployed -->
+**[Live demo →](#)**
 
 ---
 
