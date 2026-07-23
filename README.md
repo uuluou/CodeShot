@@ -1,12 +1,4 @@
-## Star Me
 
-<a href="https://starme.dev/">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://star-prompt-worker.lnmput.workers.dev/badge?repo=uuluou%2FCodeShot&mousetrail=1&border=1" />
-   <source media="(prefers-color-scheme: light)" srcset="https://star-prompt-worker.lnmput.workers.dev/badge?repo=uuluou%2FCodeShot&mousetrail=1&border=1" />
-   <img alt="Star Me Badge" src="https://star-prompt-worker.lnmput.workers.dev/badge?repo=uuluou%2FCodeShot&mousetrail=1&border=1" />
- </picture>
-</a>
 
 
 ## Screenshots
